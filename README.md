@@ -32,15 +32,15 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read.
 
-1. If you were to describe semantic HTML to the next cohort of students, what would you say?
+1. If you were to describe semantic HTML to the next cohort of students, what would you say? Semantic html is a way to mark up your html code to make it readable to any coder looking at the code. It adds tags, divides up sections, marks up bits of code and overall helps layout and add structure to your code.
 
-2. Name two big differences between ```display: block;``` and ```display: inline;```.
+2. Name two big differences between ```display: block;``` and ```display: inline;```. The biggest difference between the 2 is that display:block takes up the available space breaking lines while display:inline doesn't break lines and only takes up as much space needed.
 
-3. What are the 4 areas of the box model?
+3. What are the 4 areas of the box model? Margin, border, padding, and content
 
-4. While using flexbox, what axis does the following property work on: ```align-items: center```?
+4. While using flexbox, what axis does the following property work on: ```align-items: center```? cross-axis
 
-5. Explain why git is valuable to a team of developers.
+5. Explain why git is valuable to a team of developers. git is valuable to a team of developers because you all work on the same code making individual branches to work separately while not affecting the main code. You're able to cross reference each other's code, merge code when everything lines up, and effectively troubleshoot errors as a team. If someone makes a mistake or you need to go back to old code, it is easily accessible with git.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
