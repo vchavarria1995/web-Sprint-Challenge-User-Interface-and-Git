@@ -144,3 +144,45 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+/*Header Section Styles*/
+
+.logo{
+    max-width:100%;
+    width:55%;
+    padding:1% 2%;
+    margin:0 auto;
+    display:flex;
+    justify-content:space-evenly;
+    align-items:flex-end;
+}
+.mainnav ul{
+    display:flex;
+    justify-content:space-evenly;
+    text-align:center;
+    align-items:flex-end;
+}
+.mainnav li{
+    margin: 0 auto;
+    padding: 0 10%;
+}
+
+header nav a{
+    text-decoration:none;
+    font-size:14px;
+}
+
+.headerimg{
+    padding: 0 34% 1%;
+}
+
+/* Box Colors
+* [ ] box1: `teal`
+* [ ] box2: `gold`
+* [ ] box3: `cadetblue`
+* [ ] box4: `coral`
+* [ ] box5: `crimson`
+* [ ] box6: `forestgreen`
+* [ ] box7: `darkorchid`
+* [ ] box8: `hotpink`
+* [ ] box9: `indigo`
+* [ ] box10: `dodgerblue` */
